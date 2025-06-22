@@ -29,4 +29,4 @@ All lectures, quizzes, and hands-on code are organized by week.
 
 ---
 
-💼 Maintained by: [harispapadopoulos](https://github.com/harispapadopoulos)
+💼 Maintained by: [sysops-cpu](https://github.com/sysops-cpu)
